@@ -1,5 +1,5 @@
-### Hi i'M
-### Diogo Santos ✌🏽
+## Hello World! 💻
+### Me chamo Diogo Santos 👋🏼
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diogop.santos/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogopdsantos)
@@ -17,4 +17,4 @@
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div><br/>
 
-Apaixonada por tecnologia, buscando aprender e se especialiazr mais todo dia.
+Apaixonada por tecnologia, buscando aprender mais e se especialiazr todo dia.
